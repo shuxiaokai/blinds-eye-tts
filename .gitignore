@@ -1,0 +1,7 @@
+vision/__pycache__
+utils/__pycache__
+.vscode
+config.py
+logs.log
+try.py
+try.ui
